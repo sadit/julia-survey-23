@@ -1,0 +1,10 @@
+13. What percentage of the programming you do is in Julia?
+0%
+1-19%
+20-39%
+40-59%
+60-79%
+80-99%
+100%
+Don’t do any programming
+Don’t know

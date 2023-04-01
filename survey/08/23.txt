@@ -1,0 +1,15 @@
+8. Why did you start using Julia? Please select all that apply.
+- [ ] Julia seems like the language of the future
+- [ ] Julia solves the two language problem
+- [ ] Faster for the work I am doing
+- [ ] I like learning new languages
+- [ ] Preferable syntax to other languages
+- [ ] I heard about Julia from friends or colleagues
+- [ ] Better packages for the work I am doing
+- [ ] Because colleagues in my field use Julia and I want to collaborate with them
+- [ ] Because my instructor or a course I wanted to take uses Julia
+- [ ] Elegance of Julia
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

@@ -1,0 +1,17 @@
+22. Have you attended or do you plan to attend JuliaCon? Please select all that apply.
+- [ ] 2023 (Boston)
+- [ ] 2022 (Online)
+- [ ] 2021 (Online)
+- [ ] 2020 (Online)
+- [ ] 2019 (Baltimore)
+- [ ] 2018 (London)
+- [ ] 2017 (Berkeley)
+- [ ] 2016 (Boston)
+- [ ] 2015 (Boston)
+- [ ] 2014 (Chicago)
+- [ ] Will likely attend in the future
+- [ ] Would like to attend, if funds, schedule and location permit
+- [ ] Unlikely to attend JuliaCon in future
+- [ ] Don't know
+
+

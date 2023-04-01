@@ -1,0 +1,23 @@
+24. Which of the following do you use as part of your work? Please select all that apply. ROTATE
+Data science
+Modeling and simulation
+Optimal control
+Statistics
+Optimization
+Machine learning
+Visualization
+Blockchain
+Differential equations
+Artificial intelligence
+Graphics
+Signal processing
+Image processing
+Supercomputing
+Computer vision
+Genetic data processing
+Robotics
+Quantum computing
+Scripting
+None of the above  DO NOT ROTATE
+Don’t know    DO NOT ROTATE
+The following questions will help us to better understand the demographics of the Julia community.

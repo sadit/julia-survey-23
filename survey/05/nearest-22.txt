@@ -1,0 +1,12 @@
+4. Thinking only about the NON-TECHNICAL aspects or features of Julia, which of the following are the NON-TECHNICAL aspects or features you like MOST about Julia? Please select all that apply. ROTATE
+Free – don’t have to pay to use Julia
+Julia community of developers is talented and active
+MIT license
+Easy to create packages
+Julia community of developers is warm and welcoming
+Easy to get help and information online
+Easy to contribute to the language
+Lots of great teaching and learning resources available online
+Great documentation
+None, there are no non-technical aspects or features that I like about Julia  DO NOT ROTATE
+Don’t know  DO NOT ROTATE

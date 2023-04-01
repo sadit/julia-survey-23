@@ -1,0 +1,13 @@
+24. With which operating system(s) do you use Julia most frequently? Please select all that apply.
+- [ ] Linux/x86
+- [ ] Windows
+- [ ] Windows with WSL
+- [ ] macOS/x86
+- [ ] macOS/ARM
+- [ ] ChromeOS
+- [ ] Linux/ARM
+- [ ] Linux/PPC
+- [ ] FreeBSD
+- [ ] Other/SPECIFY
+
+

@@ -1,0 +1,12 @@
+21. With which operating system(s) do you use Julia most frequently? Please select all that apply. ROTATE
+Linux/x86
+Windows
+Windows with WSL
+macOS
+macOS/ARM
+ChromeOS
+Linux/ARM
+Linux/PPC
+FreeBSD
+Other        DO NOT ROTATE
+Don’t know      DO NOT ROTATE

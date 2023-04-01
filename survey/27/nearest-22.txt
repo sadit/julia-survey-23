@@ -1,0 +1,14 @@
+23. What resources have you found most useful when learning Julia for the first time or when learning how to do something in Julia? Please select all that apply. ROTATE
+JuliaAcademy
+Exercism Julia track
+Julia manual
+Webinars
+In-person university courses
+Online university courses
+Other online courses
+JuliaCon presentations
+Other presentations
+YouTube tutorials
+Julia books
+None of the above  DO NOT ROTATE
+Don’t know    DO NOT ROTATE

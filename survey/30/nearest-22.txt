@@ -1,0 +1,13 @@
+26. IF ACADEMIC: Which of the following best describes you? Please select all that apply. ROTATE
+Graduate or postgraduate student or researcher
+Faculty
+Instructor
+Undergraduate student or researcher
+High school student or researcher
+Research scientist
+Research assistant
+Research software engineer
+Consultant
+System administrator
+None of the above   DO NOT ROTATE
+Don’t know  DO NOT ROTATE

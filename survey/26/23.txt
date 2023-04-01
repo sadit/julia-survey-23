@@ -1,0 +1,13 @@
+26. Which hardware accelerators, if any, do you use together with Julia? Please select all that apply.
+- [ ] Nvidia GPU (released in the last 2 years)
+- [ ] Nvidia GPU (older than 2 years)
+- [ ] Multiple Nvidia GPUs in one system
+- [ ] Apple M-series GPU
+- [ ] AMD GPU
+- [ ] Intel GPU
+- [ ] Distributed cluster of GPUs
+- [ ] Quantum computer
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

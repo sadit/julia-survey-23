@@ -1,0 +1,12 @@
+22. Which hardware accelerators, if any, do you use together with Julia? Please select all that apply. ROTATE
+Nvidia GPU (released in the last 2 years)
+Nvidia GPU (Older than 2 years)
+Multiple Nvidia GPUs in one box
+AMD GPU
+Intel GPU
+Distributed cluster of GPUs
+Google TPU
+Google TPU Pod
+Other       DO NOT ROTATE
+None      DO NOT ROTATE
+Don’t know    DO NOT ROTATE

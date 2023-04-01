@@ -1,0 +1,8 @@
+40. What is your gender?
+- [ ] Man
+- [ ] Woman
+- [ ] Non-binary
+- [ ] Prefer not to answer
+- [ ] Other/SPECIFY
+
+

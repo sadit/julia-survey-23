@@ -1,0 +1,6 @@
+11. Which of the following types of Julia packages have you created or contributed to, including documentation or filing issues? If you have created some packages of one of the types below and also contributed to but did not create other packages of the same type, then please select both columns for that type of package.
+Created this type of Julia package
+Contributed to but did not create this type of Julia package
+Open source and registered in the Julia general registry
+Open source and not registered in the Julia general registry
+Private and not registered in the Julia general registry

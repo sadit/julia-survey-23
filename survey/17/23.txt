@@ -1,0 +1,8 @@
+17. How robust is the current Julia package ecosystem?
+- [ ] Very
+- [ ] Somewhat
+- [ ] Not very
+- [ ] Not at all
+- [ ] Don't know
+
+

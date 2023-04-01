@@ -1,0 +1,42 @@
+1. Which of the following languages have you used regularly or frequently during the past year, and which do you plan to continue to use regularly or frequently during the next year? If you have used a language regularly or frequently during the past year AND you plan to continue using that language regularly or frequently during the next year, please select both boxes for that question. Please leave the row blank for any language you have not used regularly or frequently during the past year and you do not plan to use regularly or frequently during the next year.
+ 
+Have used regularly or frequently during the past year
+Plan to use regularly or frequently during the next year
+Julia
+Bash, Shell, PowerShell
+C
+C++
+C#
+Clojure
+Crystal
+Elixir
+Fortran
+F#
+Go
+Haskell
+Java
+JavaScript
+Kotlin
+Lisp
+Lua
+Maple
+Mathematica
+MATLAB
+Nim
+Octave
+Perl
+PHP
+Python
+R
+Ruby
+Rust
+SAS
+Scala
+Scheme
+Smalltalk
+SQL
+Stata
+Swift
+Typescript
+Visual Basic, VBA
+Zig

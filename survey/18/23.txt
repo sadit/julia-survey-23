@@ -1,0 +1,18 @@
+18. Which editors or IDEs do you use frequently? Please select all that apply.
+- [ ] VS Code
+- [ ] Pluto
+- [ ] Jupyter
+- [ ] JupyterLab
+- [ ] Juno
+- [ ] Nano / Pico
+- [ ] RStudio
+- [ ] Vi / Vim / Neovim
+- [ ] Emacs
+- [ ] Sublime Text
+- [ ] Notepad++
+- [ ] IntelliJ (or other Jetbrains product)
+- [ ] Kate
+- [ ] None - I write all my code in the Julia REPL
+- [ ] Other/SPECIFY
+
+

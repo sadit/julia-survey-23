@@ -1,0 +1,21 @@
+5. Thinking only about the TECHNICAL aspects or features of Julia, which of the following are the TECHNICAL aspects or features you like LEAST about Julia? Please select all that apply. ROTATE
+It takes too long to generate the first plot
+Slow compile times
+Packages aren’t as mature or as well maintained as I need
+Cannot generate self contained binaries or libraries such as .exe, .dll, .so, etc.
+Immature, not ready for use in production
+Poor editor and IDE support
+Poor linter, poor syntax checking compared to statically typed languages
+Doesn’t have all the packages I need
+I require packages, libraries or tools that are only available or are more complete in another language
+The debugger is too slow, and/or not fully-featured
+Not stable enough
+Package manager is confusing, difficult or doesn’t do what I expect it to
+Writing performant code is difficult and requires specialized knowledge
+Bugs
+One-based indexing
+No in-language or built-in support for mutable, fixed size arrays
+Does not integrate well with other language(s)
+I do not feel Julia is well suited to certain tasks
+None, there are no technical aspects or features that I dislike about Julia  DO NOT ROTATE
+Don’t know  DO NOT ROTATE

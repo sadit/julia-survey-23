@@ -1,0 +1,8 @@
+20. How did you download/install the Julia version you most frequently use? ROTATE
+Binaries from JuliaLang.org
+I compile Julia from source
+From my Linux distribution
+From Homebrew cask on Mac
+Official Docker container
+Other package manager   DO NOT ROTATE
+Don’t know      DO NOT ROTATE

@@ -1,0 +1,14 @@
+17. Which cloud solutions, if any, do you use together with Julia? Please select all that apply. ROTATE
+Local cluster
+JuliaHub
+Amazon Web Services, AWS
+Google Cloud
+Microsoft Azure
+Google Colab
+REPL.it
+CoCalc
+MyBinder
+NextJournal
+Other cloud provider  DO NOT ROTATE
+None  DO NOT ROTATE
+Don’t know  DO NOT ROTATE

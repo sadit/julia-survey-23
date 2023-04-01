@@ -1,0 +1,16 @@
+9. Where do you interact with the Julia community? Please select all that apply. ROTATE
+GitHub
+Discourse (discourse.julialang.org)
+Slack
+Zulip
+Gitter
+Discord
+Stack Overflow
+Reddit
+Twitter
+LinkedIn
+Facebook
+QQ
+JuliaCN
+None of these  DO NOT ROTATE
+Don’t know  DO NOT ROTATE

@@ -1,0 +1,14 @@
+30. IF ACADEMIC: Which of the following best describes you? Please select all that apply.
+- [ ] Graduate student
+- [ ] Postdoctoral researcher or fellow
+- [ ] Faculty
+- [ ] Instructor
+- [ ] Undergraduate student
+- [ ] High school student
+- [ ] Researcher
+- [ ] Research software engineer
+- [ ] System administrator
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

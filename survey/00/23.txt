@@ -1,0 +1,27 @@
+Dear Participant,
+ 
+You are invited to participate in the fourth annual Julia User and Developer survey.
+The results of this survey will be presented at JuliaCon 2023 this summer and will
+also be made publicly available online. The survey is developed, administered
+and analyzed by JuliaHub with input from the Julia community.
+We value your time and appreciate your participation. This survey consists of approximately 40 questions and is expected to take no
+more than 10-15 minutes to complete.
+
+Thanks to Roger Luo for building JuliaSurveyForm.jl, and thank you to all of our translators for translations.
+
+Your participation is voluntary and anonymous and no personal information will ever be shared.
+
+Please feel free to forward to colleagues and friends who are Julia users.
+
+Thank you for your participation!
+
+Sincerely,
+
+Jeff Bezanson, Stefan Karpinski, Viral Shah and Alan Edelman
+Julia Co-Creators
+
+
+
+---
+
+

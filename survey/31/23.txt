@@ -1,0 +1,28 @@
+31. IF ACADEMIC: What are your primary fields of study or research? Please select all that apply.
+- [ ] Computer science
+- [ ] Mathematics
+- [ ] Statistics
+- [ ] Physics
+- [ ] Biology, life sciences
+- [ ] Electrical engineering
+- [ ] Mechanical engineering
+- [ ] Industrial engineering
+- [ ] Economics
+- [ ] Geosciences
+- [ ] Astronomy
+- [ ] Medicine, pharmaceuticals
+- [ ] Aerospace engineering
+- [ ] Finance
+- [ ] Civil engineering
+- [ ] Education
+- [ ] Climate science
+- [ ] Chemistry
+- [ ] Chemical engineering
+- [ ] Business
+- [ ] Humanities
+- [ ] Political science
+- [ ] Sociology
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

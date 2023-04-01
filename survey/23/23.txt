@@ -1,0 +1,11 @@
+23. How do you download and install Julia? Please select all that apply.
+- [ ] Binaries from JuliaLang.org
+- [ ] I compile Julia from source
+- [ ] JuliaUp
+- [ ] From my Linux distribution
+- [ ] From Homebrew cask on Mac
+- [ ] Official Docker container
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

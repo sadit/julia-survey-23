@@ -1,0 +1,8 @@
+11. Which of the following types of Julia packages have you created or contributed to? Please select all that apply.
+- [ ] Open source and registered in the Julia general registry
+- [ ] Open source and not registered in the Julia general registry
+- [ ] Private and not registered in the Julia general registry
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

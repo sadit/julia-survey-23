@@ -1,0 +1,15 @@
+7. Which of the following are the NON-TECHNICAL aspects or features you like LEAST about Julia?
+Please select all that apply.
+- [ ] There are not enough Julia users in my field or industry
+- [ ] My company, university, clients or other organizations I work with do not allow or support Julia
+- [ ] Online tutorials and documentation are outdated or insufficient
+- [ ] I am more comfortable in another language
+- [ ] The Julia community is not active enough
+- [ ] The Julia community is too closed and not welcoming enough
+- [ ] The Julia community is not diverse enough
+- [ ] I feel that the Julia developer team does not communicate its plans or intentions clearly enough
+- [ ] The Julia community is too conservative and too reluctant to make useful changes to the language
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

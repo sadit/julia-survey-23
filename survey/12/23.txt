@@ -1,0 +1,9 @@
+12. IF OPEN SOURCE CREATOR OR CONTRIBUTOR: What is your work status in relation to writing Julia code?
+- [ ] Paid programmer
+- [ ] Write Julia as a component of other paid work (such as research for academics)
+- [ ] Part paid, part voluntary
+- [ ] Completely voluntary
+- [ ] Prefer not to say
+- [ ] None of the above
+
+

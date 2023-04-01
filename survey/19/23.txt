@@ -1,0 +1,8 @@
+19. What types of AI assistance do you use frequently with Julia? Please select all that apply.
+- [ ] GitHub Copilot
+- [ ] ChatGPT
+- [ ] Other Web-based generative AI
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

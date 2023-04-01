@@ -1,0 +1,18 @@
+42. Do you identify as underrepresented in science or computing because of your:
+- [ ] Age
+- [ ] Gender
+- [ ] Gender identity
+- [ ] Language(s) or language proficiency
+- [ ] Religion
+- [ ] Race, ethnicity, national origin
+- [ ] Disability
+- [ ] Sexual orientation
+- [ ] Education level
+- [ ] Parents’ education level
+- [ ] Income or socioeconomic status
+- [ ] Political or ideological beliefs
+- [ ] I do not identify as underrepresented in science or computing
+- [ ] Prefer not to answer
+- [ ] Other/SPECIFY
+
+

@@ -1,0 +1,10 @@
+10. Which of the following best describe your use of Julia? Please select all that apply.
+I use Julia for research
+I use Julia for work individually
+I use Julia for teaching
+I use Julia for development as part of a team
+I use Julia in production for a business critical task
+I use Julia because it is required for classes at my university
+I use Julia for hobby programming
+None of the above  DO NOT ROTATE
+Don’t know  DO NOT ROTATE

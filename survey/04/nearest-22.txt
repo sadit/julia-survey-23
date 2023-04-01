@@ -1,0 +1,18 @@
+3. Thinking only about the TECHNICAL aspects or features of Julia, which of the following are the TECHNICAL aspects or features you like MOST about Julia? Please select all that apply. ROTATE
+Speed, performance
+Ease of use
+Open source – code is available and can be modified
+Composable
+Ease of installation
+Package manager
+Solves the two language problem
+Multiple dispatch
+Distributed / GPU computing
+Type system
+Specific package(s)
+Integrates well with other language(s)
+Editor and IDE support (Emacs, Vi, Juno, VS Code)
+One-based indexing
+Metaprogramming
+None, there are no technical aspects or features that I like about Julia  DO NOT ROTATE
+Don’t know  DO NOT ROTATE

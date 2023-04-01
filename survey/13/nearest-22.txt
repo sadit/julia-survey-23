@@ -1,0 +1,8 @@
+27. IF PROFESSIONAL: Which of the following best describes you? Please select all that apply. ROTATE
+Engineer, developer
+Researcher
+Analyst
+Manager
+Product manager
+None of the above  DO NOT ROTATE
+Don’t know  DO NOT ROTATE

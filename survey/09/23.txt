@@ -1,0 +1,17 @@
+9. Where do you interact with the Julia community? Please select all that apply.
+- [ ] GitHub
+- [ ] Discourse (discourse.julialang.org)
+- [ ] Slack
+- [ ] Zulip
+- [ ] Discord
+- [ ] Stack Overflow
+- [ ] Reddit
+- [ ] Twitter
+- [ ] LinkedIn
+- [ ] JuliaCN Discourse (discourse.juliacn.com)
+- [ ] Julia Forem
+- [ ] YouTube
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

@@ -1,0 +1,18 @@
+16. Which editors or IDEs do you use frequently? Please select all that apply. ROTATE
+VS Code
+Pluto
+Jupyter
+JupyterLab
+Juno
+Nano / Pico
+RStudio
+Vi / Vim / Neovim
+Atom (without Juno)
+Emacs
+Sublime Text
+Notepad++
+IntelliJ (or other Jetbrains product)
+Kate
+Other
+None - I write all my code in the Julia REPL  DO NOT ROTATE
+Don't know  DO NOT ROTATE

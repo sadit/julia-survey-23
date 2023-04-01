@@ -1,0 +1,8 @@
+14. IF OPEN SOURCE CREATOR OR CONTRIBUTOR: How many volunteer hours do you spend working on open source Julia projects or the Julia community per week?
+- [ ] None
+- [ ] 1-10 hours
+- [ ] 11-20 hours
+- [ ] More than 20 hours
+- [ ] Prefer not to say
+
+

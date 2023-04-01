@@ -1,0 +1,23 @@
+33. IF PROFESSIONAL: What are the primary industries in which you work? Please select all that apply.
+- [ ] Software, IT
+- [ ] Engineering
+- [ ] Finance
+- [ ] Aerospace, aviation
+- [ ] Automotive
+- [ ] Energy
+- [ ] Consulting
+- [ ] Life sciences, health care, pharmaceuticals
+- [ ] Telecommunications
+- [ ] Government
+- [ ] Manufacturing
+- [ ] Transportation
+- [ ] Retail
+- [ ] Logistics
+- [ ] Semiconductors
+- [ ] Ecommerce
+- [ ] Automation
+- [ ] Agriculture
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

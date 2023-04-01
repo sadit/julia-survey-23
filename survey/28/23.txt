@@ -1,0 +1,23 @@
+28. Which of the following do you use? Please select all that apply.
+- [ ] Data science
+- [ ] Modeling and simulation
+- [ ] Statistics
+- [ ] Optimization
+- [ ] Machine learning
+- [ ] Scientific machine learning
+- [ ] Artificial intelligence
+- [ ] Automatic differentiation
+- [ ] Scripting
+- [ ] Visualization
+- [ ] Differential equations
+- [ ] Graphics
+- [ ] Controls
+- [ ] Signal processing
+- [ ] Image processing
+- [ ] Supercomputing
+- [ ] Computer vision
+- [ ] Probabilistic programming
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

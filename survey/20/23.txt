@@ -1,0 +1,13 @@
+20. Which cloud solutions, if any, do you use together with Julia? Please select all that apply.
+- [ ] Local cluster
+- [ ] JuliaHub
+- [ ] Amazon Web Services, AWS
+- [ ] Google Cloud
+- [ ] Microsoft Azure
+- [ ] Google Colab
+- [ ] REPL.it
+- [ ] MyBinder
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

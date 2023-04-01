@@ -1,0 +1,9 @@
+13. IF OPEN SOURCE CREATOR OR CONTRIBUTOR: In which of the following capacities do you contribute to Julia?
+- [ ] Paid programmer
+- [ ] Write Julia as a component of other paid work (such as research for academics)
+- [ ] Part paid, part voluntary
+- [ ] Completely voluntary
+- [ ] Prefer not to say
+- [ ] None of the above
+
+

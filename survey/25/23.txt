@@ -1,0 +1,12 @@
+25. Which kind of parallelism, if any, do you use together with Julia? Please select all that apply.
+- [ ] Tasks/coroutines
+- [ ] Julia multi-threading (Threads)
+- [ ] Other multi-threading (e.g., Polyester.jl)
+- [ ] GPU computing
+- [ ] Julia distributed computing (Distributed)
+- [ ] Other distributed computing (e.g., MPI.jl, UCX.jl)
+- [ ] Large-scale parallel computing (>100 nodes)
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

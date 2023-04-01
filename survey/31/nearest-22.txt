@@ -1,0 +1,24 @@
+29. IF ACADEMIC: What is your primary industry or field of study? Please select all that apply. ROTATE
+Computer science
+Mathematics
+Physics
+Biology
+Electrical engineering
+Mechanical engineering
+Economics
+Geosciences
+Astronomy
+Medicine
+Aerospace engineering
+Finance
+Civil engineering
+Education
+Climate science
+Chemistry
+Chemical engineering
+Business
+Humanities
+Political science
+Sociology
+None of these   DO NOT ROTATE
+Don’t know  DO NOT ROTATE

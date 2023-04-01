@@ -1,0 +1,8 @@
+21. How helpful and collaborative is the Julia community?
+- [ ] Very
+- [ ] Somewhat
+- [ ] Not very
+- [ ] Not at all
+- [ ] Don't know
+
+

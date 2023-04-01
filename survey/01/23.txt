@@ -1,0 +1,21 @@
+1. Which of the following languages have you used regularly or frequently during the past year? Please select all that apply.
+- [ ] Julia
+- [ ] Python
+- [ ] Shell, Bash, PowerShell
+- [ ] R
+- [ ] C, C++
+- [ ] SQL
+- [ ] MATLAB
+- [ ] Java
+- [ ] JavaScript
+- [ ] Fortran
+- [ ] Mathematica
+- [ ] Rust
+- [ ] C#
+- [ ] Go
+- [ ] Octave
+- [ ] Typescript
+- [ ] None of the above
+- [ ] Other/SPECIFY
+
+

@@ -1,0 +1,23 @@
+3. How much do you like each of the following languages?
+If you don't know or have not used a language, please leave it blank.
+
+|                         | One of my favorite languages | Like | Neutral | Dislike |
+| ----------------------- | ---------------------------- | ---- | ------- | ------- |
+| Julia                   |                              |      |         |         |
+| Python                  |                              |      |         |         |
+| Shell, Bash, PowerShell |                              |      |         |         |
+| R                       |                              |      |         |         |
+| C, C++                  |                              |      |         |         |
+| SQL                     |                              |      |         |         |
+| MATLAB                  |                              |      |         |         |
+| Java                    |                              |      |         |         |
+| JavaScript              |                              |      |         |         |
+| Fortran                 |                              |      |         |         |
+| Mathematica             |                              |      |         |         |
+| Rust                    |                              |      |         |         |
+| C#                      |                              |      |         |         |
+| Go                      |                              |      |         |         |
+| Octave                  |                              |      |         |         |
+| Typescript              |                              |      |         |         |
+
+

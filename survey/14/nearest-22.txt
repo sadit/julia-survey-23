@@ -1,0 +1,10 @@
+31. How many years of coding experience do you have?
+0
+1-5
+6-10
+11-15
+16-20
+21-25
+26-30
+More than 30
+Don’t know, prefer not to answer
